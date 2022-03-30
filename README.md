@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Prathmesh Dalve
+- 👀 I’m interested in World Of Data
+- 🌱 I’m currently learning PG-DBDA(Big Data Analytics)
+- 💞️ I’m looking to collaborate on New Learning,Projects,Problem Solving
+- 📫 How to reach me Via Git,Linkedin,Email
+- prathmeshdalve.dbdamarch22@gmail.com
